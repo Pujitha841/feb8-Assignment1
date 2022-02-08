@@ -1,0 +1,21 @@
+#working on comparision operation
+a=int(input("enter a ")
+b=int(input("enter b ")
+Print(a<b)
+Print(a>b)
+Print(a>=b)
+Print(a<=b)
+Print(a==b)
+Print(a!=b)
+
+
+
+Output:
+Enter a=6
+Enter b=4
+False
+True
+False
+False
+False
+True
